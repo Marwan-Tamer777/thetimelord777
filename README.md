@@ -19,8 +19,6 @@ You can Find my [Portfolio](https://marwantamer.netlify.app/) here and my [CV](h
 
 Lastly, I want to keep learning and advancing to start creating systems and technologies that help people's everywhere on our planet!
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=thetimelord777&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetimelord777&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 
